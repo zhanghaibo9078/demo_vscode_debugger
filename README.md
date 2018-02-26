@@ -1,0 +1,2 @@
+# demo_vscode_debugger
+通过vscode采用MinGW-w64进行C程序调试
